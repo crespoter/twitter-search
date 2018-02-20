@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/crespoter/twitter-search/issues"
   },
-  "homepage": "https://github.com/crespoter/twitter-search#readme"
+  "homepage": "https://github.com/crespoter/twitter-search#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "twit": "^2.2.9",
+    "twitter": "^1.7.1"
+  }
 }
