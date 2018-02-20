@@ -1,0 +1,22 @@
+{
+  "name": "innovacer-assignment",
+  "version": "1.0.0",
+  "description": "twitter search/stream api",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crespoter/twitter-search.git"
+  },
+  "keywords": [
+    "twitter"
+  ],
+  "author": "David Christie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crespoter/twitter-search/issues"
+  },
+  "homepage": "https://github.com/crespoter/twitter-search#readme"
+}
